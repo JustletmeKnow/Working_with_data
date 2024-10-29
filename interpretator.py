@@ -1,0 +1,12 @@
+list = ['Portugal', 'Ukraine', 'Poland', 'Canada', 'Germany']
+print(list)
+print(sorted(list, reverse=True))
+print(list)
+list.reverse()
+print(list)
+list.reverse()
+print(list)
+list.sort()
+print(list)
+list.sort(reverse=True)
+print(list)
